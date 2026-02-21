@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TwojaTV.pl@SD",Twoja.TV (1080p)
+https://stream.twoja.tv/ttv_hls/live.m3u8
